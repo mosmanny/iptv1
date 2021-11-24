@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",*** BRAZIL - github.com/Free-IPTV
+#EXTINF:
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 #Name: iptvtools_1
+#EXTINF:
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8 #Name: iptvtools_3
+#EXTINF:
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8 #Name: iptvtools_4
+#EXTINF:
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8 #Name: iptvtools_5
+#EXTINF:
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 #Name: iptvtools_8
+#EXTINF:
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8 #Name: iptvtools_9
+#EXTINF:
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8 #Name: iptvtools_10
+#EXTINF:
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8 #Name: iptvtools_11
+#EXTINF:
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8 #Name: iptvtools_16
+#EXTINF:
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8 #Name: iptvtools_19
+#EXTINF:
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8 #Name: iptvtools_20
+#EXTINF:
+http://200.189.113.201/hls/tve.m3u8 #Name: iptvtools_21
+#EXTINF:
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8 #Name: iptvtools_22
+#EXTINF:
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8 #Name: iptvtools_23
+#EXTINF:
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8 #Name: iptvtools_25
+#EXTINF:
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8 #Name: iptvtools_26
+#EXTINF:
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8 #Name: iptvtools_27
+#EXTINF:
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8 #Name: iptvtools_28
+#EXTINF:
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8 #Name: iptvtools_29
+#EXTINF:
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8 #Name: iptvtools_31
+#EXTINF:
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR #Name: iptvtools_32
+#EXTINF:
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8 #Name: iptvtools_35
+#EXTINF:
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8 #Name: iptvtools_36
+#EXTINF:
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8 #Name: iptvtools_39
+#EXTINF:
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8 #Name: iptvtools_40
+#EXTINF:
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8 #Name: iptvtools_41
+#EXTINF:
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8 #Name: iptvtools_42
+#EXTINF:
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8 #Name: iptvtools_43
+#EXTINF:
+https://stream3.camara.gov.br/tv1/manifest.m3u8 #Name: iptvtools_45
+#EXTINF:
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8 #Name: iptvtools_46
+#EXTINF:
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8 #Name: iptvtools_47
+#EXTINF:
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8 #Name: iptvtools_48
+#EXTINF:
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8 #Name: iptvtools_49
+#EXTINF:
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8 #Name: iptvtools_52
+#EXTINF:
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8 #Name: iptvtools_53
+#EXTINF:
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8 #Name: iptvtools_54
+#EXTINF:
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8 #Name: iptvtools_55
+#EXTINF:
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8 #Name: iptvtools_56
+#EXTINF:
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8 #Name: iptvtools_57
+#EXTINF:
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8 #Name: iptvtools_58
+#EXTINF:
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8 #Name: iptvtools_59
+#EXTINF:
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8 #Name: iptvtools_60
+#EXTINF:
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8 #Name: iptvtools_61
+#EXTINF:
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8 #Name: iptvtools_62
+#EXTINF:
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 #Name: iptvtools_63
+#EXTINF:
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8 #Name: iptvtools_64
+#EXTINF:
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8 #Name: iptvtools_66
+#EXTINF:
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 #Name: iptvtools_1
+#EXTINF:
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8 #Name: iptvtools_3
+#EXTINF:
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 #Name: iptvtools_4
+#EXTINF:
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8 #Name: iptvtools_5
+#EXTINF:
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8 #Name: iptvtools_10
+#EXTINF:
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8 #Name: iptvtools_11
+#EXTINF:
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 #Name: iptvtools_12
+#EXTINF:
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8 #Name: iptvtools_13
+#EXTINF:
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8 #Name: iptvtools_14
+#EXTINF:
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 #Name: iptvtools_15
+#EXTINF:
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8 #Name: iptvtools_16
+#EXTINF:
+http://s5.mexside.net:1935/telemax/telemax/.m3u8 #Name: iptvtools_19
+#EXTINF:
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8 #Name: iptvtools_20
